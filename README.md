@@ -2,7 +2,7 @@
 Git Collaboration
 
 
-Figma Link- https://www.figma.com/design/BAAYJ5I7mTqpy9e9lHMF7Z/influencer-gears?node-id=0-1&p=f&t=nEksEpHc6oEMG6pC-0
+Figma Link- https://www.figma.com/design/Vn4dFR21c7hNjY6DVsr9lJ/developer-porttfolio?node-id=22-299&p=f&t=zkJBRfbEbEdTiBWs-0
 
 ------------------------///------------------------
 PLease Duplicate the figma file
